@@ -5,9 +5,9 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=rockz1999" alt="rockz1999" /></a> </p>
 
-- 🔭 I’m currently working in **PieTechSolutions**
+- 🔭 I’m currently working in **ZENOTI INDIA**
 
-- 🌱 I’m currently learning **Laravel, Flutter**
+- 🌱 I’m currently learning **Flutter, .NET core, IOS Swift, node.js[Express], SQL**
 
 - 👯 I’m looking to collaborate on **flutter apps**
 
